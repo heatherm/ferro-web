@@ -10,6 +10,7 @@ Create a new project, and set the Citizen Rails repo as a remote:
     git remote add citizen-rails git@github.com:citizencode/citizen-rails
     git fetch citizen-rails
     git reset --hard citizen-rails/master
+    git create project-name
     git remote add origin git@github.com:[organization/project-name]
     git push -u origin master
     
