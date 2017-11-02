@@ -38,7 +38,7 @@ Ruby setup, you might need to run `bundle exec citizen` instead of just `citizen
 
 1. Get your Heroku API Key for a user from (https://dashboard.heroku.com/account)
 1. Paste API Key in the CircleCI account settings page (https://circleci.com/account/heroku)
-1. Set your user as the deploy user CircleCI per project settings page (https://circleci.com/gh/citizencode/skoshi/edit#heroku)
+1. Set your user as the deploy user CircleCI per project settings page 
 1. Ensure that your <github username>@circleci.com and generated ssh key show up on heroku (https://dashboard.heroku.com/account)
 1. Click rebuild if necessary 
 
